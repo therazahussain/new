@@ -1,0 +1,9 @@
+.Home{
+    position: relative;
+    display:grid;
+    justify-content: center;
+    /* align-items: center; */
+    grid-template-columns:  50% 25% ;
+    height: 99vh;
+    gap:2rem;
+}

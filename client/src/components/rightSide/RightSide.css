@@ -1,0 +1,29 @@
+.RightSide{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    overflow:auto;
+    /* width: 100vh; */
+}
+
+
+.navIcons{
+    margin-top: 1rem;
+    /* position: fixed; */
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+}
+
+
+.navIcons>img{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+
+.r-button{
+    /* height: ; */
+    width: 80%;
+    align-self: center;
+}
